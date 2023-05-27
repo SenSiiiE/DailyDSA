@@ -1,4 +1,4 @@
-package com_placement;
+package DailyQuestion;
 
 public class reverseStr {
     public static void main(String[] args) {

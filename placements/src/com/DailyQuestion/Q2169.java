@@ -1,4 +1,4 @@
-package com.DailyQuestion;
+package DailyQuestion;
 
 import java.util.Arrays;
 

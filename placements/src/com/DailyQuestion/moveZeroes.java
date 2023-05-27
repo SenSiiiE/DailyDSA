@@ -1,4 +1,4 @@
-package com_placement;
+package DailyQuestion;
 
 import java.util.Arrays;
 
