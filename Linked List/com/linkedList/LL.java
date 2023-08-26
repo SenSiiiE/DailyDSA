@@ -49,6 +49,19 @@ public class LL {
         }
     }
 
+    public void insertRec(int index, int value){
+        insertRec(index, value, head);
+    }
+    private Node insertRec(int index, int value, Node node){
+        if(index == 0){
+            Node temp = new Node(value, node);
+            size++;
+            return temp;
+        }
+        node.next = insertRec(index - 1, value, node.next);
+        return node;
+    }
+
     public void deleteFirst(){
         if(head == null) {
             System.out.println("List is empty...");
@@ -98,6 +111,43 @@ public class LL {
         }
     }
 
+    public LL merge(LL first, LL second){
+        Node f = first.head;
+        Node s = second.head;
+        LL ans = new LL();
+        while(f != null && s != null){
+            if(f.value < s.value){
+                ans.insertLast(f.value);
+                f = f.next;
+            }else{
+                ans.insertLast(s.value);
+                s = s.next;
+            }
+        }
+        while(f != null){
+            ans.insertLast(f.value);
+            f = f.next;
+        }
+        while(s != null){
+            ans.insertLast(s.value);
+            s = s.next;
+        }
+        return ans;
+    }
+    public void reverse(){
+        reverse(head);
+    }
+    private void reverse(Node node){
+        if(node == tail){
+            head = tail;
+            return;
+        }
+        reverse(node.next);
+        tail.next = node;
+        tail = node;
+        tail.next = null;
+    }
+
 
     public void display(){
         Node temp = head;
@@ -108,10 +158,28 @@ public class LL {
         System.out.println("NULL");
     }
 
+    private int getValue(int num){
+        Node node = head;
+        int index = 0;
+        while(node != null){
+            if(node.value == num) return index;
+            index++;
+            node = node.next;
+        }
+        return -1;
+    }
+    private Node get(int index){
+        Node node = head;
+        for (int i = 0; i < index; i++) {
+            node = node.next;
+        }
+        return node;
+    }
 
     private class Node{
         private int value;
         private Node next;
+        public Node(){}
         public Node(int value){
             this.value = value;
         }

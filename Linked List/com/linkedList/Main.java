@@ -39,10 +39,23 @@ public class Main {
 //        }
 //        list.display();
 
-        CLL list = new CLL();
-        list.insert(15);
-        list.insert(16);
-        list.insert(17);
-        list.display();  
+        LL list = new LL();
+        list.insertLast(15);
+        list.insertLast(16);
+        list.insertLast(17);
+        list.display();
+
+        list.insertRec(list.length(), 99);
+        list.display();
+
+        LL list2 = new LL();
+        list2.insertLast(5);
+        list2.insertLast(6);
+        list2.insertLast(7);
+        list2.display();
+
+        list2.reverse();
+        list2.display();
+        System.out.println(list2.length());
     }
 }
