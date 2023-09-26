@@ -15,5 +15,4 @@ public class linearSearchAndStoreInArrayList {
         if(arr[start] == target) list.add(start);
         findAllSearch(arr, target, start+1);
     }
-
 }

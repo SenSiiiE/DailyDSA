@@ -5,13 +5,13 @@ import java.util.List;
 
 public class permutations {
     public static void main(String[] args) {
-        System.out.println((permCount("", "abc")));
+       perm("", "abc");
     }
 
     static void perm(String p, String up){
         if(up.isEmpty()){
             System.out.println(p);
-            return;
+                return;
         }
 
         char ch = up.charAt(0);

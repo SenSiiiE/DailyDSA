@@ -6,8 +6,8 @@ import java.util.Map;
 public class MapAna {
     public static void main(String[] args) {
         Map<Character, Integer> map = new HashMap<>();
-        String str = "aababaaba";
-        String ana = "aaab";
+        String str = "foxfoxfx";
+        String ana = "fox";
         int k = ana.length();
 
         for (char ch: ana.toCharArray()) {
@@ -45,7 +45,7 @@ public class MapAna {
             }
         }
         System.out.println(ans);
-        System.out.println(map.size());
+
     }
 }
 

@@ -47,8 +47,6 @@ public class subset {
                 outer.add(internal);
             }
         }
-
-        Collections.min(outer.get(0));
         return outer;
     }
 }

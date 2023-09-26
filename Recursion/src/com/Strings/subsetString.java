@@ -1,8 +1,6 @@
 package com.Strings;
 
-//import java.lang.reflect.Array;
 import java.util.ArrayList;
-
 public class subsetString {
     public static void main(String[] args) {
         subSeq("abc", "");
