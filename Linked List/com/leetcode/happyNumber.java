@@ -1,12 +1,13 @@
 package com.leetcode;
 
-import java.util.Arrays;
-
-public class happyNumber {
+public class HappyNumber {
     public static void main(String[] args) {
         System.out.println(isHappy(19));
-        int[] arr = { 5, -2, 23, 7, 87, -42, 509 };
-        Arrays.sort(arr);
+        for(int i = 1; i < 1000; i++){
+            if(isHappy(i)){
+                System.out.println(i);
+            }
+        }
     }
     public static boolean isHappy(int n){
         int s = n;
@@ -16,8 +17,7 @@ public class happyNumber {
             s = squareDigitSum(s);
             f = squareDigitSum(squareDigitSum(f));
         } while(s != f);
-        if(s == 1) return true;
-        return false;
+        return s == 1;
     }
 
     static int squareDigitSum(int num){
@@ -31,3 +31,4 @@ public class happyNumber {
         return ans;
     }
 }
+
