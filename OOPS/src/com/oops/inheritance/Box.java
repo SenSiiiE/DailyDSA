@@ -13,7 +13,7 @@ public class Box {
         this.h = -1;
         this.l = -1;
         this.w = -1;
-
+        System.out.println("In box default constructor");
     }
 
     Box(double side){

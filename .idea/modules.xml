@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/BinaryTree/BinaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cvent/Cvent.iml" filepath="$PROJECT_DIR$/Cvent/Cvent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IGT/IGT.iml" filepath="$PROJECT_DIR$/IGT/IGT.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/PlacementDSA.iml" filepath="$PROJECT_DIR$/PlacementDSA.iml" />
     </modules>

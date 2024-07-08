@@ -6,7 +6,7 @@ import java.util.Set;
 
 public class q3 {
     public static void main(String[] args) {
-        System.out.println(lengthOfLongestSubstring("abcabcbb"));
+        System.out.println(lengthOfLongestSubstring("abcadcbb"));
 
     }
     public static int lengthOfLongestSubstring(String s){
@@ -19,8 +19,8 @@ public class q3 {
             char ch = s.charAt(right);
             if(!set.contains(ch)){
                 set.add(ch);
+                ans = Math.max(ans, right - left + 1);
             }else{
-                ans = Math.max(ans, right - left);
                 while(set.contains(s.charAt(left))) {
                     set.remove(s.charAt(left));
                     left++;

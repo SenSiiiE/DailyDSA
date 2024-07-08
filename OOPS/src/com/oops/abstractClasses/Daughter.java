@@ -7,4 +7,6 @@ public class Daughter extends Parent {
     void career(String name) {
         System.out.println("I want to be a "+ name);
     }
+
+
 }

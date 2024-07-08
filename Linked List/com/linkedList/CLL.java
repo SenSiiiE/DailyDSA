@@ -2,7 +2,7 @@ package com.linkedList;
 
 public class CLL {
     private Node head;
-    private  Node tail;
+    private Node tail;
 
     public CLL(){
         this.head = null;

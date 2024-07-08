@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f878fe0-eaa4-4844-8f18-629f1acb2bdb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Cvent/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cvent/src/com/Overriding/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cvent/src/com/Sapient/distinctAbs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cvent/src/com/Sapient/linkedList/middleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cvent/src/com/Sapient/sortAB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cvent/src/com/String/dotEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cvent/src/com/String/palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cvent/src/com/array/secondHighest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FromBasic/.idea/FromBasic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FromBasic/DecJan/BinarySearch/src/numberOfRotationInSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FromBasic/SeptOct/SeptOct.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FromBasic/SeptOct/src/com/Array/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FromBasic/SeptOct/src/com/Array/SortSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FromBasic/SeptOct/src/com/Array/UnionAndIntersection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FromBasic/SeptOct/src/com/Array/peakElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FromBasic/SeptOct/src/com/Array/reShapeMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FromBasic/SeptOct/src/com/Array/reverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FromBasic/SeptOct/src/com/Array/shiftNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FromBasic/SeptOct/src/com/Array/sort012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NCRPractice/.idea/NCRPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NCRPractice/Patterns/Patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NCRPractice/Patterns/src/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NCRPractice/Patterns/src/normalTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NCRPractice/Patterns/src/rightTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NCRPractice/Patterns/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NCRPractice/Patterns/src/twoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NCRPractice/findDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NCRPractice/out/production/NCRPractice/.idea/NCRPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NCRPractice/print1to10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NCRPractice/printLeaders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NCRPractice/q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/src/com/oops/Polymorphism/testing/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/src/com/oops/Polymorphism/testing/TestOverrriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/src/com/oops/SingeltonClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/src/com/oops/inheritance/test/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/src/com/oops/inheritance/test/Jungle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackAndQueue/.idea/StackAndQueue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackAndQueue/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackAndQueue/Queues/Queues.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackAndQueue/Queues/src/CircularQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackAndQueue/Queues/src/CustomQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackAndQueue/RabinKarp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackAndQueue/Stacks/Stacks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackAndQueue/Stacks/src/CustomStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackAndQueue/Stacks/src/DynamicStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackAndQueue/Stacks/src/StackArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackAndQueue/Stacks/src/StackException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackAndQueue/Stacks/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackAndQueue/fibo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackAndQueue/out/production/StackAndQueue/.idea/StackAndQueue.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Linked List/com/leetcode/q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Linked List/com/leetcode/q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Linked List/out/production/Linked List/com/leetcode/happyNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Linked List/out/production/Linked List/com/leetcode/happyNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Linked List/out/production/Linked List/com/leetcode/q3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Linked List/out/production/Linked List/com/leetcode/q3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPS/src/com/oops/Strings/testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPS/src/com/oops/Strings/testing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPS/src/com/oops/abstractClasses/Daughter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPS/src/com/oops/abstractClasses/Daughter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPS/src/com/oops/abstractClasses/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPS/src/com/oops/abstractClasses/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPS/src/com/oops/abstractClasses/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPS/src/com/oops/abstractClasses/Son.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPS/src/com/oops/inheritance/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPS/src/com/oops/inheritance/Box.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2cLLqzT0rJLav7xv1sli1VRjyXO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "D:/DSA/PlacementDSA/Trees",
+    "onboarding.tips.debug.path": "D:/DSA/PlacementDSA/Trees/Trees/BinaryTrees/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f878fe0-eaa4-4844-8f18-629f1acb2bdb" name="Changes" comment="" />
+      <created>1707886106410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707886106410</updated>
+      <workItem from="1707886107428" duration="202000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+  </component>
+</project>
